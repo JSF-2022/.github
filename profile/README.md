@@ -1,8 +1,5 @@
-<div style="border-radius: 20px;">
-  
-  ![JSF_png_header](https://user-images.githubusercontent.com/83564310/157997529-c5b54595-c0dd-4960-8123-23c0bbc3f375.png)
+![JSF_png_header_maru](https://user-images.githubusercontent.com/83564310/157998253-e1d12cb1-6c8e-4f7b-af92-2a17b213fb22.png)
 
-</div>
 
 <div align="center">
   
