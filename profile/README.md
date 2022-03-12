@@ -1,6 +1,6 @@
 ![JSF_png_header](https://user-images.githubusercontent.com/83564310/157997529-c5b54595-c0dd-4960-8123-23c0bbc3f375.png)
 
-# JapanScratchersFes2022
+<div style="text-align: center;">A new event for all Scratchers.</div>
 ## ProjectJSFのメンバー
 
 | wowane |hamukatumelon|kureha-1000| ke0 |developermodoki| Skota11 |nebanebakun| 1STEP621 |
