@@ -2,4 +2,4 @@
 
 ## Organization members
 
-![Skota11](https://cdn2.scratch.mit.edu/get_image/user/79685516_60x60.png)
+![Skota11](https://cdn2.scratch.mit.edu/get_image/user/79685516_100x100.png)
