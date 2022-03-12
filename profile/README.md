@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  **A new event for all Scratchers.**
+  **✨A new event for all Scratchers.💻**
   
 </div>
 
