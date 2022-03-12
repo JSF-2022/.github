@@ -1,7 +1,7 @@
 ![JSF_png_header](https://user-images.githubusercontent.com/83564310/157997529-c5b54595-c0dd-4960-8123-23c0bbc3f375.png)
 
 <div align="center">
-  **A new event for all Scratchers.**
+  __A new event for all Scratchers.__
 </div>
 
 ## ProjectJSFのメンバー
