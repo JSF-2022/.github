@@ -22,10 +22,6 @@ Scratch](https://scratch.mit.edu/users/JSF-2022/)
 ## Features
 - **Contest of works**  
 You can join the contest of works.
-- **Quizzes related to Scratch**  
-It will be fun.
-- **Scratch Games Competition**  
-Participants will compete in Scratch game scores.　
 - and more...
 
 ## How do you join JSF?  
